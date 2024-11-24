@@ -1,9 +1,6 @@
 # ignore node_modules
 server/node_modules
 
-# ignore .cabal file
-templates/*.cabal
-
 # ignore client.js
 client.js
 

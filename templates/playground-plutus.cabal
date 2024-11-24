@@ -17,7 +17,7 @@ executable playground-plutus
     , base
     , bytestring
     , containers
-    , plutus-core ^>=1.36.0.0
-    , plutus-ledger-api ^>=1.36.0.0
-    , plutus-tx ^>=1.36.0.0
-    , plutus-tx-plugin ^>=1.36.0.0
+    , plutus-core
+    , plutus-ledger-api
+    , plutus-tx
+    , plutus-tx-plugin
